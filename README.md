@@ -13,3 +13,17 @@ First person view:
 
 Top view:    
 ![](/screenshot-top-view.png)
+
+## Run it
+
+Set up JOGL - the Java Binding for the OpenGL API
+
+- Create a `General Project` in Eclipse & name it `jogl`
+- Download the a .zip file from http://www.cs.umanitoba.ca/~comp3490/jogamp/ for your operating system
+- Import the .zip `Archive File` to `jogl` project
+
+Set up this project
+
+- Import `Existing Projects to Workspace`, root directory is `eclipse-project`.
+
+Now, you know how tt run it :D
